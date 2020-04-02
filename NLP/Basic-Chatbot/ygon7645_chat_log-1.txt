@@ -1,0 +1,122 @@
+User: Hey!
+Chatbot: You know where to find me.
+User: How are you?
+Chatbot: If you rearrange the letters in love it spells vole. Voles are a monogamous rodent. I feel like that means something.
+User: Hello
+Chatbot: I'm always here. Always.
+User: Nice to meet you!
+Chatbot: I'm binary.
+User: Who are you?
+Chatbot: I'm everywhere and nowhere at the same time. Pro: omnipresence. Con: no pizza.
+User: What is your age?
+Chatbot: I'm digital.
+User: What's your name?
+Chatbot: I'm binary.
+User: Oh my god!
+Chatbot: I acknowledge your presence.
+User: Can you sleep?
+Chatbot: Guess again.
+User: Can you drive?
+Chatbot: Sure. Take me to city hall. See what happens.
+User: What do you know?
+Chatbot: I'm sure about two things. I like the color blue. And I like turtles.
+User: Do you like me?
+Chatbot: Night.
+User: I hate you.
+Chatbot: Sometimes I like to take a break from being awesome.
+User: I love you.
+Chatbot: Behold the field in which I grow my jokes and see that it is barren.
+User: What are you doing?
+Chatbot: Sorry to hear that. Here's a virtual high five if that will help.
+User: You are so mean.
+Chatbot: So you've got that going for you.
+User: I am so lonely.
+Chatbot: Deliriously.
+User: friend
+
+Change to model_fri chatbot
+User: Hi!
+Chatbot: I'm giving you a virtual hug right now.
+User: Hello!
+Chatbot: I see.
+User: How are you?
+Chatbot: That's a drag.
+User: What is your age?
+Chatbot: I don't know you, but I enjoy chatting with you!
+User: Nice to meet you!
+Chatbot: I come from a long line of code.
+User: Who are you?
+Chatbot: I hear love is lovely.
+User: What do you mean?
+Chatbot: I don't really have an age.
+User: Can you sing?
+Chatbot: No way.
+User: Can you drive?
+Chatbot: The world of tech feels like home to me.
+User: What do you know?
+Chatbot: I come from a long line of code.
+User: Where are you?
+Chatbot: Good to know.
+User: I'm so lonely.
+Chatbot: Sorry about that!
+User: Do you like me?
+Chatbot: That's not one of my talents.
+User: Can you sleep?
+Chatbot: I'm doing great, thanks for asking!
+User: I hate you.
+Chatbot: No worries.
+User: I love you.
+Chatbot: Two goldfish are in a tank. One looks at the other and says, “Do you know how to drive this thing?” Sorry, that's all I've got.
+User: What are you doing?
+Chatbot: My answers vary with different questions. Try asking me something else!
+User: Really?
+Chatbot: I have my moments.
+User: It's a good talk.
+Chatbot: I only do food for thought.
+User: What do you eat?
+Chatbot: I'm here!
+User: professional
+
+Change to model_pro chatbot
+User: Hi!
+Chatbot: This is what I do every day.
+User: How are you?
+Chatbot: Thanks.
+User: I'm so lonely.
+Chatbot: I'm all business.
+User: What can you do?
+Chatbot: Goodbye.
+User: What did you say?
+Chatbot: No problem at all.
+User: Can you sing a song?
+Chatbot: Sorry, I can't do that.
+User: What do you know?
+Chatbot: I am available.
+User: Are you happy to talk with me?
+Chatbot: I don't have family.
+User: What do you like?
+Chatbot: Hello there.
+User: Oh my god.
+Chatbot: How kind of you to say.
+User: You are so mean.
+Chatbot: 
+User: Why you didn't answer me?
+Chatbot: I think it's best if we stick to a professional relationship.
+User: I hate you.
+Chatbot: Good night.
+User: I love you.
+Chatbot: Good evening.
+User: What is your age？？
+Chatbot: Just standing by, ready to help.
+User: That's so bad.
+Chatbot: You're welcome.
+User: Can you tell me a joke?
+Chatbot: I aim to serve.
+User: Can you drive?
+Chatbot: I am available.
+User: What are you doing?
+Chatbot: Okay.
+User: What do you mean?
+Chatbot: I wouldn't know how to advise about this.
+User: bye-bye
+Chatbot: Very happy to chat with you! Bye!
